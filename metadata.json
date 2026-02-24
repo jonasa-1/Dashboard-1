@@ -1,0 +1,5 @@
+{
+  "name": "Diary & Vault Pro",
+  "description": "A comprehensive personal organizer featuring a diary, secure vault, and voice recorder.",
+  "requestFramePermissions": ["microphone"]
+}
